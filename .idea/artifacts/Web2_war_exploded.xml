@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Web2:war exploded">
+    <output-path>$PROJECT_DIR$/Web2/target/Web2-1.0-SNAPSHOT</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Web2" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF" />
+      <element id="javaee-facet-resources" facet="Web2/web/Web" />
+    </root>
+  </artifact>
+</component>

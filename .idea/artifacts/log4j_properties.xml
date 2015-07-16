@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="log4j_properties">
+    <output-path>$PROJECT_DIR$/out/artifacts/log4j_properties</output-path>
+    <root id="root">
+      <element id="file-copy" path="$PROJECT_DIR$/Web2/WEB-INF/log4j.properties" />
+    </root>
+  </artifact>
+</component>

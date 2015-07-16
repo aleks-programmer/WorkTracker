@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EJBM/EJBM.iml" filepath="$PROJECT_DIR$/EJBM/EJBM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Web2/Web2.iml" filepath="$PROJECT_DIR$/Web2/Web2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WorkTracker.iml" filepath="$PROJECT_DIR$/WorkTracker.iml" />
+    </modules>
+  </component>
+</project>

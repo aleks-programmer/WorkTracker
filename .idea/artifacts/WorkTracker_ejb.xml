@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ejb-jar" name="WorkTracker:ejb">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="worktracker-1.0-SNAPSHOT.jar">
+      <element id="artifact" artifact-name="WorkTracker:ejb exploded" />
+    </root>
+  </artifact>
+</component>

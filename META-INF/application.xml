@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application xmlns="http://java.sun.com/xml/ns/javaee"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/application_6.xsd"
+             version="6">
+    <display-name>Web</display-name>
+    <module>
+        <ejb>EJBM-1.0-SNAPSHOT.jar</ejb>
+    </module>
+    <module id="Web2-Web">
+        <web>
+            <web-uri>Web2-1.0-SNAPSHOT.war</web-uri>
+            <context-root>Web2Web</context-root>
+        </web>
+    </module>
+
+</application>

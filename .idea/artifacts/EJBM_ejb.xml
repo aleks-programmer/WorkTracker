@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="ejb-jar" name="EJBM:ejb">
+    <output-path>$PROJECT_DIR$/EJBM/target</output-path>
+    <root id="archive" name="EJBM-1.0-SNAPSHOT.jar">
+      <element id="artifact" artifact-name="EJBM:ejb exploded" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/EJBM/META-INF/persistence.xml" />
+      </element>
+    </root>
+  </artifact>
+</component>
